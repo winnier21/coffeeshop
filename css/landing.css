@@ -1,0 +1,70 @@
+html {
+    font-size: 16px;
+}
+
+h1,
+h2 {
+    font-size: 3.75rem; 
+    font-weight: 300;
+}
+
+h3,
+footer > h3,
+.discount-code {
+    font-size: 2.0625rem; 
+    font-weight: 300;
+}
+
+.button {
+    font-size: 1.3125rem; 
+    font-weight: 400;
+    background-color: #5BACC3;
+    border: none;
+    color: white;
+}
+
+p {
+    font-size: 1.125rem; 
+    font-weight: 400;
+}
+
+.discount {
+    margin-block: 0;
+    font-size: 2.8125rem; 
+    font-weight: 400;
+    width: 90%;
+    background-color: #393939;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    display:flex;
+    justify-content:flex-start;
+    text-decoration: none;
+    list-style-type: none;
+    align-items: left;
+}
+
+.box1 {
+    background-color: #FFF0ED;
+}
+
+.price {
+    color: #5BACC3;
+}
+
+.product-image {
+    height: 17.5rem;
+}
+
+.icon {
+    width: 3.125rem; 
+}
+
+.day {
+    font-weight: bold;
+}
+
+
+
